@@ -1,0 +1,153 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding:100px;
+  position:relative;
+}
+
+.middle-container{
+  margin:100px 0 50px 0;
+}
+
+
+
+.headerClass{
+ font-family:"Sacramento",sans-serif;
+
+ margin :50px auto 0 auto;
+  font-size: 5.41rem;
+  color:#66BFBF;
+}
+
+h2{
+   font-family:"Montserrat",sans-serif;
+   font-size:30px;
+  color:#66BFBF;
+}
+
+h3{
+   font-family:"Montserrat",sans-serif;
+   color:#11999E;
+
+}
+
+a{
+  color:#11999E;
+}
+
+.software{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position:absolute;
+  bottom:400px;
+  left:150px;
+
+}
+
+.top-cloud{
+  position:absolute;
+  right:150px;
+  top:50px;
+}
+
+.paragraph1{
+  font-size:2.5rem;
+  font-weight: normal;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+
+.skillimage1{
+  width:25%;
+  float:left;
+  margin:0 30px 0 0;
+}
+
+.skillimage2{
+  width:25%;
+  float:right;
+  margin:0 0 0 30px;
+}
+
+.avatarimage{
+  width:25%;
+}
+
+p{
+  font-weight:bold;
+  color: #40514E;
+}
+
+.aboutmeclass{
+  width:30%;
+  margin:0 auto 0 auto;
+  line-height: 2;
+}
+
+hr{
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:5px;
+  border-color: grey;
+  margin:50px auto 50px auto;
+}
+
+
+
+.copyrightP{
+  margin:25px auto 10px auto;
+  color:#EAF6F6;
+  font-size:10px;
+}
+
+.footer-link{
+margin:15px;
+text-decoration: none;
+font-family:Montserrat;
+}
+
+.contact-me{
+  margin-bottom:15px;
+}
+
+.bottom-container{
+ background-color:#66BFBF;
+ margin:0;
+ height:75px;
+ padding-top:35px;
+}
+
+.btn{
+  margin:10px auto 25px auto;
+  background-color: #66BFBF;
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  border-radius: 8px;
+  color:white;
+  font-family: Montserrat;
+}
+
+.endmessage{
+  width:25%;
+  margin:40px auto 60px auto;
+}
+a:hover{
+  color:#EAF6F6;
+}
+button:hover{
+  color:black;
+}
